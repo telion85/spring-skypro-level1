@@ -1,7 +1,7 @@
 
-<h3 align="center">В этом проекте я переделаю на Spring некоторые задания из курса SkyPro, которые не предпологали реализацию с использованием Spring</h3>
+<h3>В этом проекте я переделаю на Spring некоторые задания из курса SkyPro, которые не предпологали реализацию с использованием Spring</h3>
 <hr>
-<p>:hammer_and_wrench: Languages and Tools :</p>
+<p><b>:hammer_and_wrench: Languages and Tools :</b></p>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
